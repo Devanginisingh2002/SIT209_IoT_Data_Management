@@ -1,0 +1,9 @@
+body {
+    background-image: url('background.jpeg');}
+
+  h1 {
+    color: neon navy;
+    font-size: 30px;
+    text-align: center;
+    font-weight: bold;
+  }
